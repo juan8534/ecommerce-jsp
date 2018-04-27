@@ -4,7 +4,7 @@
         <servlet-name>Inicio</servlet-name>
         <servlet-class>view.Inicio</servlet-class>
     </servlet>
-    <servlet-mapping>
+    <servlet-mapping> 
         <servlet-name>Inicio</servlet-name>
         <url-pattern>/Inicio</url-pattern>
     </servlet-mapping>
